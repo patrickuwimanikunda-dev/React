@@ -24,4 +24,4 @@ console.log(validateAge(15));
 console.log(colors.blue)
 console.log(colors.red);
 console.log(colors.green);
-console.log(colors.yellow)
+console.log(colors.yellow);
